@@ -1,28 +1,5 @@
 #!/usr/bin/env bash
 
-###############################################
-# Write a nice business card on the terminal. #
-###############################################
-
-# Bitly = https://raw.githubusercontent.com/tallguyjenks/BusinessCard/master/business_card
-
-# ╭───────────────────────────────────────────────────────╮
-# │                                                       │
-# │           Michael Tsouchlarakis / michaeltd           │
-# │                                                       │
-# │      Work:  tsouchlarakis@gmail.com                   │
-# │      FOSS:  Gentoo Linux avocado.                     │
-# │                                                       │
-# │   Twitter:  https://twitter.com/tsouchlarakismd       │
-# │       npm:  https://npmjs.com/~michaeltd              │
-# │    GitHub:  https://github.com/michaeltd              │
-# │  LinkedIn:  https://linkedin.com/in/michaeltd         │
-# │       Web:  https://michaeltd.netlify.com/            │
-# │                                                       │
-# │      Card:  curl -sL https://tinyurl.com/mtd-card|sh  │
-# │                                                       │
-# ╰───────────────────────────────────────────────────────╯
-
 ######################################
 # Font attributes, colors, bg colors #
 ######################################
@@ -57,13 +34,14 @@ cat <<EOF
 
 ${cyan}╭───────────────────────────────────────────────────────╮
 ${cyan}│                                                       │
-${cyan}│${reset}           ${bold}${cyan}Prodromos Nasis / pnasis${reset}                  ${cyan}│
+${cyan}│${reset}           ${bold}${cyan}Prodromos Nasis / pnasis${reset}                    ${cyan}│
 ${cyan}│                                                       │
 ${cyan}│${reset}     ${underline}${bold}Email:${reset}  ${magenta}prodromos.nasis@gmail.com                 ${cyan}│
-${cyan}│${reset}       ${underline}${bold}Web:${reset}  ${dim}https://www.${reset}${cyan}pnasis.github.io                ${cyan}|
+${cyan}│${reset}       ${underline}${bold}Web:${reset}  ${dim}https://www.${reset}${cyan}pnasis.github.io              ${cyan}│
 ${cyan}│                                                       │
-${cyan}│${reset}    ${underline}${bold}GitHub:${reset}  ${dim}https://github.com/${reset}${green}pnasis           ${cyan}│
-${cyan}│${reset}  ${underline}${bold}LinkedIn:${reset}  ${dim}https://linkedin.com/in/${reset}${blue}prodromos-nasis        ${cyan}│${cyan}│                                                       │
+${cyan}│${reset}    ${underline}${bold}GitHub:${reset}  ${dim}https://github.com/${reset}${green}pnasis                 ${cyan}│
+${cyan}│${reset}  ${underline}${bold}LinkedIn:${reset}  ${dim}https://linkedin.com/in/${reset}${blue}prodromos-nasis   ${cyan}│
+${cyan}│                                                       │
 ${cyan}│${reset}      ${underline}${bold}Card:${reset}  ${yellow}curl -sL bit.ly/2zvxUbd | sh              ${cyan}│
 ${cyan}│                                                       │
 ${cyan}╰───────────────────────────────────────────────────────╯
