@@ -42,7 +42,7 @@ ${cyan}│                                                       │
 ${cyan}│${reset}    ${underline}${bold}GitHub:${reset}  ${dim}https://github.com/${reset}${green}pnasis                 ${cyan}│
 ${cyan}│${reset}  ${underline}${bold}LinkedIn:${reset}  ${dim}https://linkedin.com/in/${reset}${blue}prodromos-nasis   ${cyan}│
 ${cyan}│                                                       │
-${cyan}│${reset}      ${underline}${bold}Card:${reset}  ${yellow}curl -sL bit.ly/2zvxUbd | sh              ${cyan}│
+${cyan}│${reset}      ${underline}${bold}Card:${reset}  ${yellow}curl -sL bit.ly/41CI5E3 | sh              ${cyan}│
 ${cyan}│                                                       │
 ${cyan}╰───────────────────────────────────────────────────────╯
 
